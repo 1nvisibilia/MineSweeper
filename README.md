@@ -19,3 +19,6 @@ X101110
 Explaination:
 The first line of the txt file represents the number of rows in the gameboard, the second line represents the columns of the gameboard.
 The rest of the code is the gameboard, where the positive integers represents the number of mines around it, and 'X' represents a mine tile.
+
+
+A sample.txt file is alraedy prepared in the "Custom Games" folder.
