@@ -22,3 +22,6 @@ The rest of the code is the gameboard, where the positive integers represents th
 
 
 A sample.txt file is alraedy prepared in the "Custom Games" folder.
+
+
+~~ Made by Invisibilia (irl: Jiadi Tao) ~~
