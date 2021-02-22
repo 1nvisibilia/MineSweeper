@@ -8,7 +8,7 @@ If you are interested in making a custom difficulty Minesweeper game, create a t
 /// Beginning of the text File ///
 6
 7
-1232100
+1232100 \n
 1XXX100
 1243200
 001X210
